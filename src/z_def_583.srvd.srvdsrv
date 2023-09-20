@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition'
+define service Z_DEF_583 {
+  expose I_Currency as Currecy;
+}
